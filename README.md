@@ -6,9 +6,3 @@ This project is a basic parser that reads data from various file formats (CSV, T
 - **Supports Multiple Formats**: The parser can read CSV, TSV, JSON, and XML files.
 - **Dictionary Creation**: The program builds a dictionary from the provided dataset, extracting symptoms and their attributes.
 
-## How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
